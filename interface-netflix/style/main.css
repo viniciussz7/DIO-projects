@@ -98,3 +98,15 @@ header nav a:hover {
     width: 100%;
     display: block;
 }
+
+.carousel-films {
+    margin-top: 10px;
+}
+
+.carousel-films .item {
+    opacity: 0.8;
+}
+
+.carousel-films .item:hover {
+    opacity: 1;
+}
